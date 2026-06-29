@@ -1,0 +1,33 @@
+{
+  "$schema": "../templates/schemas/branding.schema.json",
+  "colors": {
+    "obsidianCharcoal": "#0E1013",
+    "telanganaGold": "#D4AF37",
+    "harithaGreen": "#1E4620",
+    "clearIvory": "#FBFBFC"
+  },
+  "typography": {
+    "display": "Cinzel",
+    "ui": "Outfit",
+    "body": "Inter"
+  },
+  "toneWords": [
+    "Nammakasiddham (Trustworthy)",
+    "Abhivrudhi (Progressive)",
+    "Aathmeeyatha (Warm/Approachable)"
+  ],
+  "assets": {
+    "logoPrimary": "../branding/originals/sreeja-developers-logo-primary.pdf",
+    "logoSvg": null,
+    "logoPngDark": null,
+    "logoPngWhite": null,
+    "favicon": null,
+    "trustBadges": {
+      "hmda": null,
+      "dtcp": null,
+      "rera": null
+    }
+  },
+  "guidelinesPath": "../../company_knowledge/Brand_Guidelines.md",
+  "lastUpdated": "2026-06-28"
+}

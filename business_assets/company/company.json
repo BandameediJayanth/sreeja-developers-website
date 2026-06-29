@@ -1,0 +1,22 @@
+{
+  "$schema": "../templates/schemas/company.schema.json",
+  "id": "sreeja-developers-and-constructions",
+  "legalName": "Sreeja Developers and Constructions",
+  "displayName": "Sreeja Developers & Constructions",
+  "tagline": "Bhoomi – Mana Nammakam. (The Land of Trust. The Highway to Wealth.)",
+  "mission": "To deliver premium, legally spotless land investments along Telangana's fastest-growing highway corridors, enabling Telugu families and international investors to build wealth anchored in absolute trust.",
+  "vision": "To become the most trusted regional leader in land development across Telangana, transforming highway-facing corridors into thriving commercial hubs and elite residential cities.",
+  "coreValues": [
+    "Mana Nammakam (Our Trust)",
+    "Bhoomi & Legacy",
+    "Frontline Growth (Highway Advantage)",
+    "Uncompromising Infrastructure"
+  ],
+  "reraRegistrationNumber": "TSRERA/P02400039281",
+  "website": "https://sreejadevelopers.com",
+  "foundedYear": null,
+  "yearsOfExperience": null,
+  "description": "Premium highway-facing residential and commercial open-plot developer in Telangana.",
+  "logoPath": "../branding/originals/sreeja-developers-logo-primary.pdf",
+  "lastUpdated": "2026-06-28"
+}

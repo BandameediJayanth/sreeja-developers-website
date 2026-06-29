@@ -1,0 +1,20 @@
+{
+  "$schema": "../templates/schemas/office.schema.json",
+  "headquarters": {
+    "name": "Sreeja Developers Headquarters",
+    "addressLine1": "Plot No. 102, Cyber Heights",
+    "addressLine2": "Gachibowli Financial District",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "postalCode": "500032",
+    "country": "India",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    },
+    "googleMapsUrl": null,
+    "googleMapsEmbedUrl": null
+  },
+  "siteOffices": [],
+  "lastUpdated": "2026-06-28"
+}

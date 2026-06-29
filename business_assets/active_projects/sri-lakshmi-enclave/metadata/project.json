@@ -1,0 +1,40 @@
+{
+  "$schema": "../../../templates/schemas/project.schema.json",
+  "projectName": "Sri Lakshmi Enclave",
+  "projectSlug": "sri-lakshmi-enclave",
+  "projectType": "residential-commercial-open-plots",
+  "status": "active",
+  "statusFolder": "active_projects",
+  "location": {
+    "village": "Majeedpur",
+    "mandal": "Hayathnagar",
+    "district": "Ranga Reddy",
+    "state": "Telangana",
+    "country": "India",
+    "highway": "Hyderabad to Vijayawada NH-9",
+    "landmarks": ["Batasingaram to Ibrahimpatnam existing wide road"]
+  },
+  "coordinates": { "lat": null, "lng": null },
+  "googleMaps": { "url": null, "embedUrl": null },
+  "description": null,
+  "amenities": [],
+  "brochure": { "path": null, "metadataPath": null },
+  "layout": {
+    "path": "layouts/originals/sri-lakshmi-enclave-layout-01.jpg",
+    "metadataPath": "metadata/assets/sri-lakshmi-enclave-layout-01.json",
+    "svgPath": null
+  },
+  "gallery": [],
+  "videos": [],
+  "approvals": { "rera": null, "hmda": null, "dtcp": null, "nala": null },
+  "documents": [],
+  "contact": { "projectSpocName": null, "phone": null, "email": null },
+  "seo": {
+    "metaTitle": null,
+    "metaDescription": null,
+    "keywords": [],
+    "canonicalPath": "/projects/sri-lakshmi-enclave"
+  },
+  "futureExpansion": { "notes": "Legacy folder was mislabeled as majeedpur site assets.", "phases": [] },
+  "lastUpdated": "2026-06-28"
+}

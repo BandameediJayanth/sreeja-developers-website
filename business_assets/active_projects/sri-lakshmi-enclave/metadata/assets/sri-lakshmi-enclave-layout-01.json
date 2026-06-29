@@ -1,0 +1,21 @@
+{
+  "id": "sri-lakshmi-enclave-layout-01",
+  "title": "Sri Lakshmi Enclave Master Layout",
+  "description": "Proposed tentative layout for Sri Lakshmi Enclave, Majeedpur Village. Total layout area: 135,520 Sq.Yds.",
+  "altText": "Sri Lakshmi Enclave master layout plan with numbered plots facing NH-9",
+  "caption": "Master layout — Sri Lakshmi Enclave, Majeedpur",
+  "seoFilename": "sri-lakshmi-enclave-layout-01.jpg",
+  "category": "layout",
+  "copyright": "© Sreeja Developers and Constructions. All rights reserved.",
+  "orientation": "landscape",
+  "resolution": { "width": null, "height": null },
+  "dateAdded": "2026-06-28",
+  "originalPath": "layouts/originals/sri-lakshmi-enclave-layout-01.jpg",
+  "generatedPath": null,
+  "mimeType": "image/jpeg",
+  "sizeBytes": 492889,
+  "legacyPath": "business_assets/majeedpur site assets/Majeedpur site .jpeg",
+  "status": "pending_migration",
+  "reviewRequired": true,
+  "reviewNote": "Legacy filename had trailing space before extension."
+}

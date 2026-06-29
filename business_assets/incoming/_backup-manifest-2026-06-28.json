@@ -1,0 +1,127 @@
+﻿{
+    "generated_at":  "2026-06-29T09:44:02.9002439Z",
+    "total_size_bytes":  67826329,
+    "phase":  "0-backup-manifest",
+    "total_files":  17,
+    "files":  [
+                  {
+                      "path":  "C:/Users/banda/OneDrive/Desktop/Sreeja_Developers/business_assets/Inamguda past layout.jpeg",
+                      "name":  "Inamguda past layout.jpeg",
+                      "size_bytes":  123112,
+                      "sha256":  "87ADD975BB08938F375550767066E1D5C291A14110526BEED79B8B154B8DE647",
+                      "last_modified":  "2026-06-29T09:26:03.0406194Z"
+                  },
+                  {
+                      "path":  "C:/Users/banda/OneDrive/Desktop/Sreeja_Developers/business_assets/Sreeja Logo.pdf",
+                      "name":  "Sreeja Logo.pdf",
+                      "size_bytes":  457767,
+                      "sha256":  "FF6CF520036301C8B8D0127143972612B895E1C66C667FE0B4EBF32E7F71BD50",
+                      "last_modified":  "2025-08-15T17:35:34.3000523Z"
+                  },
+                  {
+                      "path":  "C:/Users/banda/OneDrive/Desktop/Sreeja_Developers/business_assets/Farmland assets/Updated Brochure.pdf",
+                      "name":  "Updated Brochure.pdf",
+                      "size_bytes":  28053977,
+                      "sha256":  "1613A6E1EE949FDA2EF981E57199E521822BD0DE16A1652BC241AC08D82B6695",
+                      "last_modified":  "2026-06-29T09:21:53.9943122Z"
+                  },
+                  {
+                      "path":  "C:/Users/banda/OneDrive/Desktop/Sreeja_Developers/business_assets/Farmland assets/WhatsApp Image 2026-06-29 at 12.41.00 PM.jpeg",
+                      "name":  "WhatsApp Image 2026-06-29 at 12.41.00 PM.jpeg",
+                      "size_bytes":  100646,
+                      "sha256":  "734AA43BB4A3AAFC524C149F86CBBC2B17A0D5361C9E315C0E67FD6E974E9489",
+                      "last_modified":  "2026-06-29T09:30:09.6289579Z"
+                  },
+                  {
+                      "path":  "C:/Users/banda/OneDrive/Desktop/Sreeja_Developers/business_assets/Farmland assets/WhatsApp Image 2026-06-29 at 12.41.01 PM.jpeg",
+                      "name":  "WhatsApp Image 2026-06-29 at 12.41.01 PM.jpeg",
+                      "size_bytes":  109715,
+                      "sha256":  "434EB0804D50FA768D157B4906C7ABE8D35A246C83ACD5D7CC304796BA6D9AD6",
+                      "last_modified":  "2026-06-29T09:30:09.6384549Z"
+                  },
+                  {
+                      "path":  "C:/Users/banda/OneDrive/Desktop/Sreeja_Developers/business_assets/Highway city assets/SREEJA HIGHWAY CITY LAYOUT.pdf",
+                      "name":  "SREEJA HIGHWAY CITY LAYOUT.pdf",
+                      "size_bytes":  6382247,
+                      "sha256":  "849BEC3E23EB7C9CE0731991C94F8158E5DEB9B62FFBEC975ADC63614DEE12A8",
+                      "last_modified":  "2026-06-29T09:34:52.0470139Z"
+                  },
+                  {
+                      "path":  "C:/Users/banda/OneDrive/Desktop/Sreeja_Developers/business_assets/Highway city assets/SREEJA HIGHWAY CITY.pdf",
+                      "name":  "SREEJA HIGHWAY CITY.pdf",
+                      "size_bytes":  9431436,
+                      "sha256":  "B6419D9BA9744EBB1D5CF52A1867C319AC52C2BD200AF0177383E2C5920D1E77",
+                      "last_modified":  "2026-06-29T09:34:52.0659496Z"
+                  },
+                  {
+                      "path":  "C:/Users/banda/OneDrive/Desktop/Sreeja_Developers/business_assets/Highway city assets/WhatsApp Image 2026-06-29 at 7.41.54 AM.jpeg",
+                      "name":  "WhatsApp Image 2026-06-29 at 7.41.54 AM.jpeg",
+                      "size_bytes":  583367,
+                      "sha256":  "EB4F4737F2B0DB650E3A7EE0AA1E0AAB43E9742953310C03ACD5EE474641F01C",
+                      "last_modified":  "2026-06-29T09:21:53.9210894Z"
+                  },
+                  {
+                      "path":  "C:/Users/banda/OneDrive/Desktop/Sreeja_Developers/business_assets/Highway city assets/WhatsApp Video 2026-06-29 at 6.56.31 AM.mp4",
+                      "name":  "WhatsApp Video 2026-06-29 at 6.56.31 AM.mp4",
+                      "size_bytes":  10687747,
+                      "sha256":  "4E0A2A36D65CC179BAC57173E14BC379BA946DFC81678671FC5E6FF1CCB3C1BF",
+                      "last_modified":  "2026-06-29T09:21:53.9109306Z"
+                  },
+                  {
+                      "path":  "C:/Users/banda/OneDrive/Desktop/Sreeja_Developers/business_assets/karthik homes assets/Layout.pdf",
+                      "name":  "Layout.pdf",
+                      "size_bytes":  7100557,
+                      "sha256":  "EA39F56EE881679F165752EA98B0870039C2CB0AB789C71A70BB056BA7C932FA",
+                      "last_modified":  "2026-06-29T09:21:54.0526605Z"
+                  },
+                  {
+                      "path":  "C:/Users/banda/OneDrive/Desktop/Sreeja_Developers/business_assets/karthik homes assets/WhatsApp Image 2026-06-29 at 1.16.10 PM.jpeg",
+                      "name":  "WhatsApp Image 2026-06-29 at 1.16.10 PM.jpeg",
+                      "size_bytes":  251755,
+                      "sha256":  "6AD4E8FCC709F99B9C612D66C485B356F4911F7F17C6BC7886B6B399801B8300",
+                      "last_modified":  "2026-06-29T09:25:28.2032052Z"
+                  },
+                  {
+                      "path":  "C:/Users/banda/OneDrive/Desktop/Sreeja_Developers/business_assets/majeedpur site assets/Majeedpur site .jpeg",
+                      "name":  "Majeedpur site .jpeg",
+                      "size_bytes":  492889,
+                      "sha256":  "C49BBE42A92BD2792EB0F1EE40C9BB29CB61BA0E3EB4494FEFF5E276DB828D2B",
+                      "last_modified":  "2026-06-29T09:21:54.0191350Z"
+                  },
+                  {
+                      "path":  "C:/Users/banda/OneDrive/Desktop/Sreeja_Developers/business_assets/majeedpur site assets/majeedpur site.png",
+                      "name":  "majeedpur site.png",
+                      "size_bytes":  1298149,
+                      "sha256":  "ED65C0746B1ACACA76543134C920F9C160473E476DF7408C98FD733612B83085",
+                      "last_modified":  "2026-06-29T09:22:05.8142576Z"
+                  },
+                  {
+                      "path":  "C:/Users/banda/OneDrive/Desktop/Sreeja_Developers/business_assets/majeedpur site assets/sreegandham trees.png",
+                      "name":  "sreegandham trees.png",
+                      "size_bytes":  2381657,
+                      "sha256":  "E734601C0EC6C46EFC7340EBDADC020E6CAADEA5C08137EE8B89A52FC829539A",
+                      "last_modified":  "2026-06-29T09:23:03.2541705Z"
+                  },
+                  {
+                      "path":  "C:/Users/banda/OneDrive/Desktop/Sreeja_Developers/business_assets/sai enclave assets/WhatsApp Image 2026-06-29 at 1.06.10 PM.jpeg",
+                      "name":  "WhatsApp Image 2026-06-29 at 1.06.10 PM.jpeg",
+                      "size_bytes":  118714,
+                      "sha256":  "A2C6AB49D2A7D3A1265241363A47742B16B23AFB452ABADFFEC945250F4EB491",
+                      "last_modified":  "2026-06-29T09:25:46.0520134Z"
+                  },
+                  {
+                      "path":  "C:/Users/banda/OneDrive/Desktop/Sreeja_Developers/business_assets/sai enclave assets/WhatsApp Image 2026-06-29 at 1.14.54 PM.jpeg",
+                      "name":  "WhatsApp Image 2026-06-29 at 1.14.54 PM.jpeg",
+                      "size_bytes":  174142,
+                      "sha256":  "ADEFEA0CC5399966A9039822535385B9F223C212959AEC25E799B53E7E3A3D2B",
+                      "last_modified":  "2026-06-29T09:21:54.0596775Z"
+                  },
+                  {
+                      "path":  "C:/Users/banda/OneDrive/Desktop/Sreeja_Developers/business_assets/sai enclave assets/WhatsApp Image 2026-06-29 at 12.59.24 PM.jpeg",
+                      "name":  "WhatsApp Image 2026-06-29 at 12.59.24 PM.jpeg",
+                      "size_bytes":  78452,
+                      "sha256":  "6BCBB56E51EE512C6030FCC78E438CBAF8C4A7AB2B9586DD2269C6B40041154D",
+                      "last_modified":  "2026-06-29T09:24:55.2408750Z"
+                  }
+              ]
+}

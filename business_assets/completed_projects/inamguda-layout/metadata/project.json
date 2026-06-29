@@ -1,0 +1,43 @@
+{
+  "$schema": "../../../templates/schemas/project.schema.json",
+  "projectName": "Inamguda Layout",
+  "projectSlug": "inamguda-layout",
+  "projectType": "residential-open-plots",
+  "status": "completed",
+  "statusFolder": "completed_projects",
+  "location": {
+    "village": "Inamguda",
+    "mandal": "Hayathnagar",
+    "district": "Ranga Reddy",
+    "state": "Telangana",
+    "country": "India",
+    "highway": null,
+    "landmarks": ["Survey No. 57"]
+  },
+  "coordinates": { "lat": null, "lng": null },
+  "googleMaps": { "url": null, "embedUrl": null },
+  "description": "Historical layout plan — Sy.No. 57, Inamguda Village. Belongs to Pichakuntla Atchaiah. Total layout area: 19,602 Sq.Yds.",
+  "amenities": [],
+  "brochure": { "path": null, "metadataPath": null },
+  "layout": {
+    "path": "layouts/originals/inamguda-layout-01.jpg",
+    "metadataPath": "metadata/assets/inamguda-layout-01.json",
+    "svgPath": null
+  },
+  "gallery": [],
+  "videos": [],
+  "approvals": { "rera": null, "hmda": null, "dtcp": null, "nala": null },
+  "documents": [],
+  "contact": { "projectSpocName": null, "phone": null, "email": null },
+  "seo": {
+    "metaTitle": null,
+    "metaDescription": null,
+    "keywords": [],
+    "canonicalPath": null
+  },
+  "futureExpansion": {
+    "notes": "Past/completed project. Confirm whether this should appear on public website or remain internal reference only.",
+    "phases": []
+  },
+  "lastUpdated": "2026-06-28"
+}

@@ -1,0 +1,61 @@
+{
+  "$schema": "../../templates/schemas/project.schema.json",
+  "projectName": "{{PROJECT_NAME}}",
+  "projectSlug": "{{project-slug}}",
+  "projectType": "residential-open-plots",
+  "status": "active",
+  "statusFolder": "active_projects",
+  "location": {
+    "village": null,
+    "mandal": null,
+    "district": "Ranga Reddy",
+    "state": "Telangana",
+    "country": "India",
+    "highway": null,
+    "landmarks": []
+  },
+  "coordinates": {
+    "lat": null,
+    "lng": null
+  },
+  "googleMaps": {
+    "url": null,
+    "embedUrl": null
+  },
+  "description": null,
+  "amenities": [],
+  "brochure": {
+    "path": "brochures/originals/{{project-slug}}-brochure.pdf",
+    "metadataPath": "metadata/assets/{{project-slug}}-brochure.json"
+  },
+  "layout": {
+    "path": "layouts/originals/{{project-slug}}-layout.pdf",
+    "metadataPath": "metadata/assets/{{project-slug}}-layout.json",
+    "svgPath": null
+  },
+  "gallery": [],
+  "videos": [],
+  "approvals": {
+    "rera": null,
+    "hmda": null,
+    "dtcp": null,
+    "nala": null
+  },
+  "documents": [],
+  "contact": {
+    "projectSpocName": null,
+    "phone": null,
+    "email": null
+  },
+  "seo": {
+    "metaTitle": null,
+    "metaDescription": null,
+    "keywords": [],
+    "canonicalPath": "/projects/{{project-slug}}"
+  },
+  "futureExpansion": {
+    "notes": null,
+    "phases": []
+  },
+  "lastUpdated": "2026-06-28"
+}

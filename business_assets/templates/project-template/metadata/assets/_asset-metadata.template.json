@@ -1,0 +1,21 @@
+{
+  "id": "{{project-slug}}-hero",
+  "title": "{{Human readable title}}",
+  "description": "{{Detailed description for CMS and SEO}}",
+  "altText": "{{Accessible alt text}}",
+  "caption": "{{Optional gallery caption}}",
+  "seoFilename": "{{project-slug}}-hero.jpg",
+  "category": "hero",
+  "copyright": "© Sreeja Developers and Constructions. All rights reserved.",
+  "orientation": "landscape",
+  "resolution": {
+    "width": null,
+    "height": null
+  },
+  "dateAdded": "2026-06-28",
+  "originalPath": "images/originals/{{project-slug}}-hero.jpg",
+  "generatedPath": null,
+  "mimeType": null,
+  "sizeBytes": null,
+  "status": "pending_migration"
+}

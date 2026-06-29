@@ -1,0 +1,86 @@
+{
+  "$schema": "../../templates/schemas/project.schema.json",
+  "projectName": "Sreeja Highway City",
+  "projectSlug": "sreeja-highway-city",
+  "projectType": "gated-highway-open-plots",
+  "status": "active",
+  "statusFolder": "active_projects",
+  "location": {
+    "village": "Choutuppal",
+    "mandal": "Peddakaparthy",
+    "district": "Yadadri Bhuvanagiri",
+    "state": "Telangana",
+    "country": "India",
+    "highway": "Vijayawada Highway / NH-65 corridor",
+    "landmarks": [
+      "Regional Ring Road (RRR) Junction — approx. 5 min",
+      "Rajiv Gandhi International Airport — TBD",
+      "Gachibowli Financial District — approx. 35 min via ORR"
+    ]
+  },
+  "coordinates": {
+    "lat": null,
+    "lng": null
+  },
+  "googleMaps": {
+    "url": null,
+    "embedUrl": null
+  },
+  "description": "Premium highway-facing residential and commercial open plots at Sreeja Highway City. Gated layout with elite infrastructure and 100% legal clarity.",
+  "amenities": [
+    "Grand Entrance Plaza (Mahadwaram)",
+    "Wide Blacktop Roads (60ft, 40ft, 33ft)",
+    "Underground Electricity & Fiber Optic Ducts",
+    "Overhead Water Tank & Dedicated Water Connections",
+    "Haritha Parks & Children's Play Areas",
+    "All-Around Compound Wall & 24/7 CCTV Surveillance"
+  ],
+  "brochure": {
+    "path": "brochures/originals/sreeja-highway-city-brochure.pdf",
+    "metadataPath": "metadata/assets/sreeja-highway-city-brochure.json"
+  },
+  "layout": {
+    "path": "layouts/originals/sreeja-highway-city-layout.pdf",
+    "metadataPath": "metadata/assets/sreeja-highway-city-layout.json",
+    "svgPath": null
+  },
+  "gallery": [
+    "metadata/assets/sreeja-highway-city-hero.json"
+  ],
+  "videos": [
+    "metadata/assets/sreeja-highway-city-drone-01.json"
+  ],
+  "approvals": {
+    "rera": "TSRERA/P02400039281",
+    "hmda": null,
+    "dtcp": "approved",
+    "nala": null
+  },
+  "documents": [],
+  "contact": {
+    "projectSpocName": null,
+    "phone": "+91 90000 88888",
+    "email": "concierge@sreejadevelopers.com"
+  },
+  "seo": {
+    "metaTitle": "Premium Highway-Facing Open Plots near Hyderabad | Sreeja Highway City",
+    "metaDescription": "Invest in premium residential and commercial open plots at Sreeja Highway City. Located directly on Telangana's high-growth national highway corridors. 100% legal title, HMDA/DTCP approved.",
+    "keywords": [
+      "highway facing plots Telangana",
+      "Sreeja Highway City",
+      "open plots near Hyderabad",
+      "HMDA approved plots",
+      "RRR corridor plots"
+    ],
+    "canonicalPath": "/projects/sreeja-highway-city"
+  },
+  "futureExpansion": {
+    "notes": "Flagship digital experience platform. Interactive SVG plot map and legal vault are website priorities.",
+    "phases": [
+      "Phase 1 — Core website launch",
+      "Phase 1.5 — Interactive plot map + calculators",
+      "Phase 2 — NRI zone + progress timeline CMS"
+    ]
+  },
+  "lastUpdated": "2026-06-28"
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../../templates/schemas/project.schema.json",
+  "projectName": null,
+  "projectSlug": "farmland",
+  "projectType": "farmland-agricultural",
+  "status": "active",
+  "statusFolder": "active_projects",
+  "location": {
+    "village": null,
+    "mandal": null,
+    "district": null,
+    "state": "Telangana",
+    "country": "India",
+    "highway": null,
+    "landmarks": []
+  },
+  "coordinates": { "lat": null, "lng": null },
+  "googleMaps": { "url": null, "embedUrl": null },
+  "description": null,
+  "amenities": [],
+  "brochure": {
+    "path": "brochures/originals/farmland-brochure.pdf",
+    "metadataPath": "metadata/assets/farmland-brochure.json"
+  },
+  "layout": { "path": null, "metadataPath": null, "svgPath": null },
+  "gallery": [
+    "metadata/assets/farmland-gallery-01.json",
+    "metadata/assets/farmland-gallery-02.json"
+  ],
+  "videos": [],
+  "approvals": { "rera": null, "hmda": null, "dtcp": null, "nala": null },
+  "documents": [],
+  "contact": { "projectSpocName": null, "phone": null, "email": null },
+  "seo": {
+    "metaTitle": null,
+    "metaDescription": null,
+    "keywords": [],
+    "canonicalPath": "/projects/farmland"
+  },
+  "futureExpansion": { "notes": "Official project name and legal approvals required before public website listing.", "phases": [] },
+  "lastUpdated": "2026-06-28"
+}

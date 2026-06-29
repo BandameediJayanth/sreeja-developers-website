@@ -1,0 +1,10 @@
+{
+  "$schema": "../templates/schemas/social-links.schema.json",
+  "instagram": null,
+  "facebook": null,
+  "youtube": null,
+  "linkedin": null,
+  "whatsappChannel": null,
+  "x": null,
+  "lastUpdated": "2026-06-28"
+}

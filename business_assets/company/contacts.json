@@ -1,0 +1,21 @@
+{
+  "$schema": "../templates/schemas/contacts.schema.json",
+  "sales": {
+    "primaryPhone": "+91 90000 88888",
+    "secondaryPhone": "+91 90000 99999",
+    "email": "concierge@sreejadevelopers.com",
+    "whatsappNumber": null,
+    "whatsappDefaultMessage": "Hello Sreeja Developers, I am interested in learning more about your open plots."
+  },
+  "nriDesk": {
+    "email": null,
+    "phone": null,
+    "whatsappNumber": null,
+    "spocName": null
+  },
+  "support": {
+    "email": "concierge@sreejadevelopers.com",
+    "phone": "+91 90000 88888"
+  },
+  "lastUpdated": "2026-06-28"
+}

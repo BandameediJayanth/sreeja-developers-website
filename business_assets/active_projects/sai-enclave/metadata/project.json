@@ -1,0 +1,46 @@
+{
+  "$schema": "../../../templates/schemas/project.schema.json",
+  "projectName": "Sai Enclave",
+  "projectSlug": "sai-enclave",
+  "projectType": "residential-open-plots",
+  "status": "active",
+  "statusFolder": "active_projects",
+  "location": {
+    "village": "Batasingaram",
+    "mandal": "Hayathnagar",
+    "district": "Ranga Reddy",
+    "state": "Telangana",
+    "country": "India",
+    "highway": null,
+    "landmarks": []
+  },
+  "coordinates": { "lat": null, "lng": null },
+  "googleMaps": { "url": null, "embedUrl": null },
+  "description": null,
+  "amenities": [],
+  "brochure": { "path": null, "metadataPath": null },
+  "layout": {
+    "path": "layouts/originals/sai-enclave-layout-branded-01.jpg",
+    "metadataPath": "metadata/assets/sai-enclave-layout-branded-01.json",
+    "svgPath": null
+  },
+  "gallery": [
+    "metadata/assets/sai-enclave-gallery-01.json",
+    "metadata/assets/sai-enclave-layout-survey-01.json"
+  ],
+  "videos": [],
+  "approvals": { "rera": null, "hmda": null, "dtcp": null, "nala": null },
+  "documents": [],
+  "contact": { "projectSpocName": null, "phone": null, "email": null },
+  "seo": {
+    "metaTitle": null,
+    "metaDescription": null,
+    "keywords": [],
+    "canonicalPath": "/projects/sai-enclave"
+  },
+  "futureExpansion": {
+    "notes": "Confirm relationship between branded layout and Batasingaram survey layout before publishing.",
+    "phases": []
+  },
+  "lastUpdated": "2026-06-28"
+}

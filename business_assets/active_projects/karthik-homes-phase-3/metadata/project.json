@@ -1,0 +1,40 @@
+{
+  "$schema": "../../../templates/schemas/project.schema.json",
+  "projectName": "Karthik Homes Phase-III",
+  "projectSlug": "karthik-homes-phase-3",
+  "projectType": "residential-open-plots",
+  "status": "active",
+  "statusFolder": "active_projects",
+  "location": {
+    "village": "Abdullahpurmet",
+    "mandal": "Abdullahpurmet",
+    "district": "Ranga Reddy",
+    "state": "Telangana",
+    "country": "India",
+    "highway": "Hyderabad to Vijayawada Highway (200' wide exit)",
+    "landmarks": []
+  },
+  "coordinates": { "lat": null, "lng": null },
+  "googleMaps": { "url": null, "embedUrl": null },
+  "description": null,
+  "amenities": [],
+  "brochure": { "path": null, "metadataPath": null },
+  "layout": {
+    "path": "layouts/originals/karthik-homes-phase-3-layout.pdf",
+    "metadataPath": "metadata/assets/karthik-homes-phase-3-layout.json",
+    "svgPath": null
+  },
+  "gallery": ["metadata/assets/karthik-homes-phase-3-layout-scan-01.json"],
+  "videos": [],
+  "approvals": { "rera": null, "hmda": null, "dtcp": null, "nala": null },
+  "documents": [],
+  "contact": { "projectSpocName": null, "phone": null, "email": null },
+  "seo": {
+    "metaTitle": null,
+    "metaDescription": null,
+    "keywords": [],
+    "canonicalPath": "/projects/karthik-homes-phase-3"
+  },
+  "futureExpansion": { "notes": null, "phases": [] },
+  "lastUpdated": "2026-06-28"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "farmland-brochure",
+  "title": "Farmland Project Brochure",
+  "description": "Marketing brochure for farmland project. Official project name TBD.",
+  "altText": "Farmland project brochure",
+  "caption": null,
+  "seoFilename": "farmland-brochure.pdf",
+  "category": "brochure",
+  "copyright": "© Sreeja Developers and Constructions. All rights reserved.",
+  "orientation": "unknown",
+  "resolution": { "width": null, "height": null },
+  "dateAdded": "2026-06-28",
+  "originalPath": "brochures/originals/farmland-brochure.pdf",
+  "generatedPath": null,
+  "mimeType": "application/pdf",
+  "sizeBytes": 28053977,
+  "legacyPath": "business_assets/Farmland assets/Updated Brochure.pdf",
+  "status": "pending_migration",
+  "reviewRequired": true,
+  "reviewNote": "26.75 MB — requires web compression in generated/ after migration."
+}
