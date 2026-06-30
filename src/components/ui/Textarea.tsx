@@ -1,5 +1,11 @@
-import * as React from "react";
+/**
+ * @id CMP-019
+ * @name Textarea
+ * @purpose Form multi-line text input field.
+ * @a11y Meets WCAG AA targets, pairs with visible label, sets proper ARIA descriptors for validation errors.
+ */
 
+import * as React from "react";
 import { cn } from "@/lib/utils";
 
 export interface TextareaProps extends React.TextareaHTMLAttributes<HTMLTextAreaElement> {
@@ -23,7 +29,7 @@ export const Textarea = React.forwardRef<HTMLTextAreaElement, TextareaProps>(fun
         id={id}
         className={cn(
           "min-h-32 w-full rounded-md border border-[var(--color-border)] bg-transparent px-4 py-3 text-sm text-[var(--color-text-primary)] placeholder:text-[var(--color-text-secondary)] shadow-sm transition duration-200 ease-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--color-accent)] focus-visible:ring-offset-2 focus-visible:ring-offset-[var(--color-background)] disabled:cursor-not-allowed disabled:opacity-50",
-          error ? "border-red-500" : "",
+          error ? "border-[var(--color-danger)]" : "",
           className,
         )}
         aria-invalid={Boolean(error)}
@@ -31,7 +37,7 @@ export const Textarea = React.forwardRef<HTMLTextAreaElement, TextareaProps>(fun
         {...props}
       />
       {error ? (
-        <p id={`${id}-error`} className="text-sm text-red-400" aria-live="polite">
+        <p id={`${id}-error`} className="text-sm text-[var(--color-danger)]" aria-live="polite">
           {error}
         </p>
       ) : null}

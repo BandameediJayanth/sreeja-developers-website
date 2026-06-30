@@ -1,7 +1,13 @@
+/**
+ * @id CMP-006
+ * @name Drawer
+ * @purpose Slide-in drawer container for mobile navigation or quick menus.
+ * @a11y Meets WCAG AA targets, locks body scrolling, supports Escape closing trigger.
+ */
+
 "use client";
 
 import * as React from "react";
-
 import { cn } from "@/lib/utils";
 
 export interface DrawerProps extends React.HTMLAttributes<HTMLDivElement> {
@@ -21,8 +27,15 @@ export const Drawer = React.forwardRef<HTMLDivElement, DrawerProps>(function Dra
       if (event.key === "Escape") onClose();
     };
 
+    // Lock body scroll
+    const originalOverflow = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+
     window.addEventListener("keydown", onKeyDown);
-    return () => window.removeEventListener("keydown", onKeyDown);
+    return () => {
+      document.body.style.overflow = originalOverflow;
+      window.removeEventListener("keydown", onKeyDown);
+    };
   }, [isOpen, onClose]);
 
   return (

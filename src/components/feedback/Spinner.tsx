@@ -1,3 +1,12 @@
+/**
+ * @id CMP-032
+ * @name Spinner
+ * @purpose Visual loader spinner for asynchronous operations.
+ * @a11y Includes aria-live="polite" for screen reader tracking.
+ */
+
+import * as React from "react";
+
 export interface SpinnerProps {
   label?: string;
 }
