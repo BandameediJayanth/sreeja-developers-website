@@ -1,31 +1,40 @@
-import * as React from "react";
+/**
+ * @id CMP-027
+ * @name Heading
+ * @purpose Standard page and section headers.
+ * @a11y Meets WCAG AA targets.
+ */
 
+import * as React from "react";
 import { cn } from "@/lib/utils";
 
 export interface HeadingProps extends React.HTMLAttributes<HTMLHeadingElement> {
   level?: 1 | 2 | 3 | 4 | 5 | 6;
 }
 
+const headingSizes: Record<1 | 2 | 3 | 4 | 5 | 6, string> = {
+  1: "text-4xl md:text-6xl font-bold tracking-[0.08em] leading-tight",
+  2: "text-3xl md:text-[32px] font-semibold tracking-[0.08em] leading-snug",
+  3: "text-2xl font-semibold tracking-[0.08em] leading-snug",
+  4: "text-xl font-medium tracking-[0.08em] leading-normal",
+  5: "text-lg font-medium tracking-[0.08em] leading-normal",
+  6: "text-base font-medium tracking-[0.08em] leading-normal",
+};
+
 export const Heading = React.forwardRef<HTMLHeadingElement, HeadingProps>(function Heading(
   { level = 2, className, ...props },
   ref,
 ) {
-  const headingClassName = cn("font-semibold tracking-wide", className);
-
-  switch (level) {
-    case 1:
-      return React.createElement("h1", { ref, className: headingClassName, ...props });
-    case 2:
-      return React.createElement("h2", { ref, className: headingClassName, ...props });
-    case 3:
-      return React.createElement("h3", { ref, className: headingClassName, ...props });
-    case 4:
-      return React.createElement("h4", { ref, className: headingClassName, ...props });
-    case 5:
-      return React.createElement("h5", { ref, className: headingClassName, ...props });
-    case 6:
-      return React.createElement("h6", { ref, className: headingClassName, ...props });
-    default:
-      return React.createElement("h2", { ref, className: headingClassName, ...props });
-  }
+  return React.createElement(
+    `h${level}`,
+    {
+      ref,
+      className: cn(
+        "font-heading text-[var(--color-text-primary)]",
+        headingSizes[level],
+        className,
+      ),
+      ...props,
+    }
+  );
 });

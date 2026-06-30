@@ -17,6 +17,9 @@ const config: Config = {
           secondary: "var(--color-text-secondary)",
         },
         accent: "var(--color-accent)",
+        success: "var(--color-success)",
+        danger: "var(--color-danger)",
+        info: "var(--color-info)",
       },
       fontFamily: {
         heading: ["var(--font-cinzel)", "serif"],
